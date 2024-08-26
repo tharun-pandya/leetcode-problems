@@ -1,0 +1,10 @@
+go 1.21.6
+
+use (
+	./add-two-nums
+	./dividearray
+	./linkedlist
+	./palindrome
+	./prefix
+	./sum-of-two
+)
